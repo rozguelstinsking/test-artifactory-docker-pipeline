@@ -1,0 +1,1 @@
+# test-npm-docker-artifactory
